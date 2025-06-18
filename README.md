@@ -106,8 +106,8 @@ The SQL file includes:
 
 For queries, collaborations, or feedback:
 
-**\[John David]**
+**John David**
 
-**\[adelekejohndavid@gmail.com]**
+**adelekejohndavid@gmail.com**
 
-**\[John David](https://www.linkedin.com/in/john-david-b7b5781b3/)]**
+**[John David](https://www.linkedin.com/in/john-david-b7b5781b3/)**
